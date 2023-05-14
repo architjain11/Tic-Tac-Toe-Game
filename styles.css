@@ -4,7 +4,7 @@
 }
 
 .bg {
-    background-color: #AEFEFF;
+    background-color: #62CDFF;
     height: 100vh;
     padding-top: 1px;
 }
@@ -61,7 +61,7 @@
 }
 
 .tile:hover {
-    background-color: #4FBDBA;
+    background-color: #97DEFF;
 }
 
 .restart {
@@ -80,4 +80,14 @@
     color: white;
     margin-top: 10px;
     cursor: pointer;
+}
+
+.verdict {
+    font-size: 20px;
+    border: 5px solid #2F58CD;
+    text-align: center;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px 5px 5px 5px;
 }
